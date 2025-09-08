@@ -10,11 +10,12 @@ constexpr const char* RO_PROP_SOURCES[] = {
 };
 
 constexpr const char* MODELS[] = {
-        "CPH2413", "CPH2415", "CPH2417", "CPH2419", "PGP110",
+        "RMX3706", "CPH2415", "CPH2417", "CPH2419", "PGP110",
 };
 
 // TO-DO make a map
 constexpr const char* DEVICES[] = {
+        "RE5860",
         "OP5551L1",
         "OP5552L1",
 };
